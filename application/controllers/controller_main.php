@@ -1,6 +1,6 @@
 <?php
 
-// namespace Application\Core; - не работает с указанием
+// namespace Application\Core; - не нужен, поскольку в файле bootstrap.php через require_once подключены все файлы ядра
 
 class Controller_Main extends Controller
 {

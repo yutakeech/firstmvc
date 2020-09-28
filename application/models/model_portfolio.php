@@ -8,14 +8,14 @@ class Model_Portfolio extends Model
 		return array(
 
 			array(
-				'Year' => '2033',
-				'Site' => 'http://DunkelBeer.ru',
-				'Description' => 'Промо-сайт темного пива Dunkel от немецкого производителя Löwenbraü выпускаемого в России пивоваренной компанией "CАН ИнБев".'
+				'Year' => '2020',
+				'Site' => 'Prenatal',
+				'Description' => 'Заведение структуры, правка шаблона по ТЗ.'
 			),
 			array(
-				'Year' => '2033',
-				'Site' => 'http://ZopoMobile.ru',
-				'Description' => 'Русскоязычный каталог китайских телефонов компании Zopo на базе Android OS и аксессуаров к ним.'
+				'Year' => '2020',
+				'Site' => 'Blagodarnost',
+				'Description' => 'Перенос старых страниц и добавление новых согласно таблицы контента'
 			),
 			// todo
 		);
